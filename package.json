@@ -28,7 +28,7 @@
     "serve": "1.4.0",
     "tic-tac-toe-js": "0.0.2",
     "unexpected": "10.20.0",
-    "unexpected-presentation": "2.3.0",
+    "unexpected-presentation": "2.4.0",
     "unexpected-react": "3.3.2"
   }
 }
