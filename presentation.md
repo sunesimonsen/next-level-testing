@@ -365,7 +365,7 @@ no-longer using the game positions.
 
 ### Let's make it fail
 
-Note: - so we can see the output:
+Note: so we can see the output:
 
 ```js
 expect(                                                     // X | O |
